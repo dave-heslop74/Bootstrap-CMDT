@@ -10,6 +10,8 @@ Specifically:
 
 ```Common mean direction test.ipynb```: Test if two sets of directions share a common mean.
 
+The Python libraries ```numpy```, ```pandas```, ```matplotlib```, and ```pmagpy``` are needed for the bootstrap-CMDT procedure.
+
 Data files are provided for the examples. Please note, you will need to specify the path of the data files if they are not stored in the same location as the notebooks. 
 
 Bootstrapping is a numerical procedure and therefore results may differ slightly from those in the paper.
